@@ -7,7 +7,7 @@
 
 **Thoughts:** I realize that I need alot of reviewing in JS.
 
-**Link to work:** 
+**Link to work:** (https://www.linkedin.com/posts/devina-mendez_100daysofcode-10daysofjs-codingisfun-activity-6663519931079946241-VKXm)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
